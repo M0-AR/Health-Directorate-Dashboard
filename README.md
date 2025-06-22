@@ -1,6 +1,9 @@
 # 🏥 لوحة تحكم مديرية صحة دمشق 
 ## Damascus Health Directorate Dashboard
 
+### 🌐 **الرابط المباشر للنظام / Live Demo:**
+### ➡️ **https://damascus-health-dashboard.streamlit.app/**
+
 ### 👨‍⚕️ المدير: الدكتور أكرم معتوق
 ### 🤖 المطور: المهندس محمد الأشمر - خبير ذكاء اصطناعي
 
@@ -48,6 +51,14 @@ An advanced intelligent system for managing and tracking employees in Damascus H
 ---
 
 ## 🚀 التثبيت والتشغيل / Installation & Setup
+
+### 🌐 الطريقة الأسرع - الوصول المباشر / Quickest Way - Direct Access
+```
+🔗 الرابط المباشر / Direct Link:
+https://damascus-health-dashboard.streamlit.app/
+```
+
+### 💻 التشغيل المحلي / Local Installation
 
 ### 1. استنساخ المشروع / Clone Repository
 
